@@ -2,7 +2,7 @@
 👋 Hi, I'm Shingai Zivuku.
 
 ### 🔹 Professional Experience  
-✅ **4+ years in DevSecOps & Systems Engineering**  
+✅ **3+ years in DevSecOps & Security Engineering**  
 ✅ **Expertise in Incident Response, SIEM, Cloud Security and Operations, & Security Compliance**  
 ✅ **Strong background in Security Automation & Risk Assessment**  
 
