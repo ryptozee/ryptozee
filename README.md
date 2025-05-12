@@ -11,7 +11,7 @@
 🛠 **Cloud Security:** AWS, GCP, Kubernetes Security (Prisma Cloud)  
 🛠 **Forensics & Incident Response:** Volatility, Autopsy, Wireshark  
 🛠 **Automation & Scripting:** Python, Bash, PowerShell  
-🛠 **Security Auditing & GRC:** NIST CSF, CIS Benchmarks, ISO 27001  
+🛠 **Security Auditing & GRC:** NIST, PCI DSS, CIS Benchmarks, ISO 27001  
 
 📩 **Let's Connect:** [LinkedIn](https://linkedin.com/in/shingai-zivuku/)  
 
