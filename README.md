@@ -1,11 +1,6 @@
 ## 🌍 About Me  
 👋 Hi, I'm Shingai Zivuku.
 
-### 🔹 Professional Experience  
-✅ **3+ years in DevSecOps & Security Engineering**  
-✅ **Expertise in Incident Response, SIEM, Cloud Security and Operations, & Security Compliance**  
-✅ **Strong background in Security Automation & Risk Assessment**  
-
 ### 🚀 Skills & Tools  
 🛠 **SIEM & Threat Detection:** Splunk, Chronicle, Suricata  
 🛠 **Cloud Security:** AWS, GCP, Kubernetes Security (Prisma Cloud)  
